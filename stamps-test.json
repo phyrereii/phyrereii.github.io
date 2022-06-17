@@ -1671,20 +1671,6 @@
       "/images/items/sta_three.gif"
     ]
   ],
-  "15": [
-    [
-      "Valentine Stamp",
-      99,
-      "Be mine?",
-      "/images/items/stamp_valentine.gif"
-    ],
-	[
-      "Misprint Super Bright Rainbow Pool Stamp",
-      101,
-      "???",
-      "/images/items/stamp_holiday_dubrain.gif"
-    ]
-  ],
   "13": [
     [
       "Trestin Stamp",
@@ -1835,6 +1821,20 @@
       99,
       "This mighty beast is the ultimate bad guy and the perfect stamp to complete your collection.",
       "images/items/sta_nq2_terask.gif"
+    ]
+  ],
+  "15": [
+    [
+      "Valentine Stamp",
+      99,
+      "Be mine?",
+      "/images/items/stamp_valentine.gif"
+    ],
+	[
+      "Misprint Super Bright Rainbow Pool Stamp",
+      101,
+      "???",
+      "/images/items/stamp_holiday_dubrain.gif"
     ]
   ]
 }
